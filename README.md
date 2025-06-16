@@ -1,4 +1,4 @@
-# AI Financial Coach Agent with Google ADK 💰
+# AI Financial Advisor 
 
 The **AI Financial Coach** is a personalized financial advisor powered by Google's ADK (Agent Development Kit) framework. This app provides comprehensive financial analysis and recommendations based on user inputs including income, expenses, debts, and financial goals.
 
