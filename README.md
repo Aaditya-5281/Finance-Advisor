@@ -37,6 +37,17 @@ The **AI Financial Coach** is a personalized financial advisor powered by Google
 
 ---
 
+## Demo Video
+
+Watch a demo of the AI Financial Coach Agent in action:
+
+[![Watch the video](https://img.youtube.com/vi/placeholder/hqdefault.jpg)](assets/Financial%20Agent.mp4)
+
+If the video does not play in your browser, you can download it directly:
+[Download Financial Agent.mp4](assets/Financial%20Agent.mp4)
+
+---
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
